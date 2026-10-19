@@ -1,0 +1,7 @@
+{
+  "name": "macos-menubar-telemetry-bridge",
+  "version": "2.0.0",
+  "description": "Enterprise-grade native macOS telemetry monitoring suite bridging JavaScript for Automation (JXA), Objective-C bindings, and POSIX shell hooks.",
+  "main": "telemetry_bridge.js",
+  "type": "commonjs"
+}
